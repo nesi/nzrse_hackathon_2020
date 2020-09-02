@@ -75,7 +75,6 @@ This can be done in two ways:
      * Use `wget`, `curl` or similar tools to fetch the file using this URL
      * Right click or go to file menu in the browser and "save as"
 
-
 ## Frequently asked questions
 
  * Can I submit multiple solutions? 
@@ -88,4 +87,4 @@ This can be done in two ways:
    - NeSI will notify the winner by email, using the team email address provided in the submission email.
 
  * What if I have a question during the hackathon?
-   - Please send an email to training@nesi.org.nz if you have any questions regarding this hackathon
+   - Please share your questions in the #nesi_hackathon_open slack channel (https://nesi.slack.com/archives/C019EJ8V85S).  All registrants should have received an invitation via email to join this channel - if you have not received an invitation please get in touch by emailing training@nesi.org.nz.
