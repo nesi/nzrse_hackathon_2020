@@ -47,7 +47,7 @@ In addition, you will need to attach two files:
  * `emod3d_test_y.csv`,
  * an archive (tar.gz or zip) of your code.
  
-<span style="color:red"> **The hackathon starts at 2020-09-03 at 15:00 NZST and the deadline for submission is 2020-09-08 at 15:00 NZST** </span>span>
+**The hackathon starts at 2020-09-03 at 15:00 NZST and the deadline for submission is 2020-09-08 at 15:00 NZST**
 
 ## How NeSI will select the winner
 
