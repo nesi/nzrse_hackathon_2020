@@ -100,5 +100,5 @@ This can be done in two ways:
 nt is the number of time steps and n_sub is the number of sub faults used to represent the earthquake source (a measure of complexity of the fault being simulated)
 
  * Some core hours are integers. Have these jobs reached the job's time limit?
-   - An integer number that is a multiple of the number of cores of a node likely indicates that the wall clock limit was hit
+   - An integer number that is a multiple of the number of cores (40) of a node likely indicates that the wall clock limit was hit
 
