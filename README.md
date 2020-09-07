@@ -92,7 +92,7 @@ This can be done in two ways:
  * There are entries with zero core hours value in the dataset. Do these correspond to failed jobs?
    - Yes
   
- * Some core hour counts are below one hour. Could it be that these failed jobs? 
+ * Some core hour counts are below one hour. Could it be that these are failed jobs? 
    - A simulation with a small number of core hours (e.g. 0.3) likely indicates a "simple" simulation, probably a small magnitude earthquake with a relatively small domain
 
  * What are the meanings of nt, nx,  ny, nz, n_sub?
