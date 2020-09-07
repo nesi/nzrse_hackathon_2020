@@ -84,7 +84,21 @@ This can be done in two ways:
    - NeSI will select the solution that returns the smallest loss among all submissions
 
  * How and when will NeSI announce the winner?
-   - NeSI will notify the winner by email, using the team email address provided in the submission email.
+   - NeSI will notify the winner by email, using the team email address provided in the submission email
 
  * What if I have a question during the hackathon?
-   - Please share your questions in the #nesi_hackathon_open slack channel (https://nesi.slack.com/archives/C019EJ8V85S).  All registrants should have received an invitation via email to join this channel - if you have not received an invitation please get in touch by emailing training@nesi.org.nz.
+   - Please share your questions in the #nesi_hackathon_open slack channel (https://nesi.slack.com/archives/C019EJ8V85S).  All registrants should have received an invitation via email to join this channel - if you have not received an invitation please get in touch by emailing training@nesi.org.nz
+
+ * There are entries with zero core hours value in the dataset. Do these correspond to failed jobs?
+   - Yes
+  
+ * Some core hour counts are below one hour. Could it be that these failed jobs? 
+   - A simulation with a small number of core hours (e.g. 0.3) likely indicates a "simple" simulation, probably a small magnitude earthquake with a relatively small domain
+
+ * What are the meanings of nt, nx,  ny, nz, n_sub?
+   - nx, ny and nz represent the number of grid points in each direction of the domain (the finite difference simulation has a uniform grid),
+nt is the number of time steps and n_sub is the number of sub faults used to represent the earthquake source (a measure of complexity of the fault being simulated)
+
+ * Some core hours are integers. Have these jobs reached the job's time limit?
+   - An integer number that is a multiple of the number of cores of a node likely indicates that the wall clock limit has been hit
+
