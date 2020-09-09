@@ -27,4 +27,4 @@ Use the `--help` flag to see the options of the script.
 
 ## Notes
 
-Target observations with 0 core-hours are excluded.
+Target observations with 0 core-hours or a multiple of 40 are excluded.
