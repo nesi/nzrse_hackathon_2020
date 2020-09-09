@@ -102,3 +102,18 @@ nt is the number of time steps and n_sub is the number of sub faults used to rep
  * Some core hours are integers. Have these jobs reached the job's time limit?
    - An integer number that is a multiple of the number of cores (40) of a node likely indicates that the wall clock limit was hit
 
+# Hackathon results
+
+We would like to thank all participants for their hard work and for sharing what
+their learned during this event.
+
+Submissions have been regrouped in the [`submissions`](submissions) folder, one
+per team and per submission:
+
+ * `Centre for eResearch` team (Nick Young) [first submission](submissions/centre_for_eresearch_01/code), [second submission](submissions/centre_for_eresearch_02/code) and [external repository](https://github.com/neon-ninja/nzrse_hackathon_2020),
+ * `Cameron Kerr` team [submission](submissions/cameron_kerr/code), [slides](submissions/cameron_kerr/NZRSE_2020_Hackathon.pptx) and [external repository](https://github.com/cameronkerrnz/nzrse_hackathon_2020),
+ * `Kristin Wilson` team [submission](submissions/k_wilson/code),
+ * `Chris Love Amy` team (Xiaoquan (Chris) Sun) [submission](submissions/chris_love_amy/code),
+ * `Pablo Higuera` team [submission](submissions/pablo_higuera/code).
+
+Final scores are available in a [`separate file`](submissions/scores.csv).

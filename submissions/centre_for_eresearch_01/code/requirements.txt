@@ -1,0 +1,7 @@
+matplotlib==3.2.1
+numpy==1.19.1
+pandas==1.0.4
+scikit-learn==0.23.2
+seaborn==0.10.1
+joblib==0.16.0
+https://github.com/saattrupdan/scikit-garden/archive/5b1a5a1fdfba9254de0733d9c1e1a1ebf67ebde5.zip
