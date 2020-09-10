@@ -60,6 +60,8 @@ def main(
 
     pylab.legend(legends, loc='lower right')
     pylab.plot(y_actual, y_actual, 'k--')
+    pylab.xlabel('prediction')
+    pylab.ylabel('actual')
     legends.append('exact')
     pylab.xlim([0, 1200])
     pylab.show()
