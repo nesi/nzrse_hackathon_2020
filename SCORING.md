@@ -24,6 +24,12 @@ order (best first).
 
 Use the `--help` flag to see the options of the script.
 
+## Plot results
+
+```
+python src/plot_submissions.py submissions/
+```
+
 
 ## Notes
 
